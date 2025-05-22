@@ -19,7 +19,7 @@
   4. Performing data aggregation and filtering
   5. Practicing data insertion, update, and deletion.
 # Database Structure Diagram
-
+https://github.com/dikshaprojects1711/online-bookstore-sql-project/blob/1e2ab41c5a07a891de5ba347c7497effe952a192/er%20diagrms.pgerd.png
 
 
 
