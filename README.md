@@ -14,12 +14,9 @@
 # Learning Goals :
  Example:
   1. Designing normalized database schemas
-  2. Writing complex SELECT queries with JOINs, GROUP BY, HAVING
+  2. Writing complex SELECT queries with JOINs, GROUP BY,HAVING
   3. Using transactions and constraints
   4. Performing data aggregation and filtering
   5. Practicing data insertion, update, and deletion.
 # Database Structure Diagram
-https://github.com/dikshaprojects1711/online-bookstore-sql-project/blob/1e2ab41c5a07a891de5ba347c7497effe952a192/er%20diagrms.pgerd.png
-
-
-
+![er diagrms pgerd](https://github.com/user-attachments/assets/1ae09588-04b7-46e5-8a16-bc44712bb1b5)
