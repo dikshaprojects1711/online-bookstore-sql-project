@@ -8,7 +8,7 @@
  4 Includes real-world sample data simulating a functioning online bookstore.
  5 Provides insightful SQL queries for sales analysis and customer behavior.
  6 Designed for easy extension to support future features like reviews or inventory tracking.
-# Technologies used :
+# Database and Tools :
   1. Postgre SQL
   2. PgAdmin4
 # Learning Goals :
