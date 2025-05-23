@@ -9,8 +9,8 @@
  5 Provides insightful SQL queries for sales analysis and customer behavior.
  6 Designed for easy extension to support future features like reviews or inventory tracking.
 # Technologies used :
-  1. mysql
-  2. Postgresql
+  1. Postgre SQL
+  2. PgAdmin4
 # Learning Goals :
  Example:
   1. Designing normalized database schemas
